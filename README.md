@@ -5,6 +5,7 @@ Support MySQl 5.6 or Higher
 Config in DbConfig.txt
 
 Example
+
 {
 	"ip":"localhost",
 	"username":"root",
