@@ -13,3 +13,6 @@ Example
 	"port":"3306",
 	"dbname":"hosdata"
 }
+
+
+Edit MyTokey in token.txt
