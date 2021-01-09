@@ -18,3 +18,7 @@ Config in DbConfig.txt
 
 
 Edit MyTokey in token.txt
+## token.txt
+```baht
+abcdeft
+```
