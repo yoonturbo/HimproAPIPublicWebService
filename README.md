@@ -22,3 +22,10 @@ Edit MyTokey in token.txt
 ```baht
 abcdeft
 ```
+Config Smart Health ID Account in "smart_health_id.json"
+```json
+{
+	"username":"abc",
+	"password":"xxx"
+}
+```
