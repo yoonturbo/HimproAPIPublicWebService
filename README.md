@@ -1,4 +1,4 @@
-# HimproAPIPublicWebService
+# HimproAPI
 WebService API ASP.net Core 3.1 Public for MySQL Databases support Himpro his
 Support MySQl 5.6 or Higher
 
