@@ -31,6 +31,7 @@ Edit MyTokey in token.txt
 abcdeft
 ```
 Config Smart Health ID Account in "smart_health_id.json"
+## smart_health_id.json
 ```json
 {
 	"username":"abc",
