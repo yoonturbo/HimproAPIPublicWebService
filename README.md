@@ -12,7 +12,7 @@ ADD COLUMN `ptlname_en` varchar(30) NULL AFTER `ptfname_en`;
 ```
 Config in DbConfig.txt
 
-## Example
+## DbConfig.txt
 ```json
 {
 	"ip":"localhost",
